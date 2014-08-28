@@ -1,4 +1,4 @@
-Administrative Functions
+Funções Administrativas
 ========================
 
 .. note::
